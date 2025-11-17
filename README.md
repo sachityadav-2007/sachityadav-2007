@@ -1,67 +1,61 @@
-<!-- HEADER -->
-<h1 align="center">✨ Hi, I'm <span style="color:#00eaff;">Sachit Kumar</span> 👋</h1>
-
-<!-- Typing Animation -->
+<!-- Animated Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+Student;Frontend+Developer;AI+%26+ML+Enthusiast;Learning+DSA+%26+Web+Dev;Welcome+To+My+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F6FF&center=true&vCenter=true&width=600&lines=Hi+There,+I'm+Sachit+Kumar!;Front-End+Developer;Tech+Enthusiast;Java+Learner;Always+Building+Something+New" />
 </p>
 
 ---
 
-<!-- Coding Banner -->
+### 👨‍💻 About Me
+- 🌱 Currently learning **Frontend, Java & DSA**
+- 💻 Passionate about **UI/UX & website design**
+- 🚀 Building cool mini-projects regularly
+- 🎯 Aim: Become a **Full-Stack Developer**
+
+---
+
+### ⚡ Tech Stack
+
+#### 🚀 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+#### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+
+#### 🛠 Tools  
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SachitSlayers&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SachitSlayers&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 **About Me**
-- 🎓 B.Tech CSE (AI & ML) Student  
-- 💻 Passionate about Web Development  
-- 🤖 Exploring AI, ML & Generative AI  
-- 🧠 Improving Python, Java & DSA  
-- 🔥 I love building creative and clean UI  
-- 🌟 Always learning something new  
-
----
-
-## 🛠️ **Tech Stack**
-### ⭐ Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
-</p>
-
-### ⭐ Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-
-### ⭐ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-## 📊 **GitHub Stats**
+### 🔥 Most Used Languages
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sachityadav-2007&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sachityadav-2007&theme=tokyonight" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachitSlayers&layout=compact&theme=tokyonight">
 </p>
 
+---
+
+### 🌐 Connect With Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachityadav-2007&layout=compact&theme=tokyonight" width="45%"/>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-## 🔗 **Connect With Me**
-<p align="left">
-  <a href="https://www.linkedin.com/in/sachit-kumar-953bbb376/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://github.com/sachityadav-2007"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="mailto:sachitslayers@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-</p>
+### ✨ Quote  
+> "Build. Break. Learn. Repeat."
 
----
-
-### ⭐ **If you like this profile, consider giving it a star!**
