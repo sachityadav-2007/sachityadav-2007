@@ -29,25 +29,10 @@
 
 ---
 
-## 📊 GitHub Stats (Black + Neon)
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachityadav2007&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sachityadav2007&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Most Used Languages
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachityadav2007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=firefox"></a>
+  
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail"></a>
 </p>
