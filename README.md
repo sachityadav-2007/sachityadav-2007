@@ -1,45 +1,91 @@
-<!-- Animated Typing Title -->
+<h1 align="center">Hi 👋, I'm Sachit Kumar</h1>
+
+<h3 align="center">
+Full Stack Developer | AI & ML Enthusiast | B.Tech CSE Student
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFF6&center=true&vCenter=true&width=650&lines=Hi+There,+I'm+Sachit+Kumar!;Front-End+Developer;Python+Learner;Passionate+Coder;Tech+Explorer" />
+  🚀 Building real-world applications &nbsp; • &nbsp;
+  💻 Learning and growing every day
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔥 Front-End Developer focused on clean UI  
-- 🌱 Currently learning **JavaScript & Python**  
-- 💡 I enjoy building creative, modern web designs  
-- 🚀 Improving everyday by building real projects  
-- 🎯 Goal: Become a **Full-Stack Developer**
+
+- 🎓 B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**
+- 💻 Interested in **Full Stack Development and Software Engineering**
+- 🌱 Currently improving my skills in **DSA, React, Node.js, and Backend Development**
+- 🧠 Exploring **AI/ML** and building real-world projects
+- 🎯 Goal: Become a skilled **Software Engineer & Full Stack Developer**
 
 ---
 
-## ⚡ Skills
+## 🚀 Featured Projects
 
-### 🧩 Languages  
-![HTML](https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python)
+### 🏥 MediFlow AI
+> A Smart Doctor Appointment Booking and Patient Management System.
 
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-050505?style=for-the-badge&logo=visual-studio-code)
+**Tech Stack:** React • Node.js • Express.js • PostgreSQL • Prisma • Socket.IO
+
+🔗 [View Project](https://github.com/sachityadav-2007/mediflow-ai)
 
 ---
 
+### 📦 API Contract Guard
+> A lightweight Express middleware for validating request bodies against reusable schemas.
 
-## 🌐 Connect With Me  
-<p align="center">
-  
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail"></a>
+**Tech Stack:** Node.js • Express • JavaScript • Jest
+
+🔗 [View Project](https://github.com/sachityadav-2007/API-Contract-Guard-)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
+</p>
+
+### 🚀 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,git,github,vscode" />
 </p>
 
 ---
 
-## ✨ Quote  
-> “Code. Create. Learn. Repeat.”
+## 📚 Currently Learning
 
+- Data Structures & Algorithms
+- Advanced Full Stack Development
+- Artificial Intelligence & Machine Learning
+- System Design Fundamentals
 
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sachitkumar2007/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:sachitslayers@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> "Code. Create. Learn. Repeat." 🚀
